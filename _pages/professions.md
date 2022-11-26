@@ -6,7 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
-<font size=20>Professional Activities</font>
+Professional Activities
+======
 * Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
 * Associate Editor, The Visual Computer
 * Associate Editor, Journal of Electronic Imaging
