@@ -11,13 +11,14 @@ Research Interests:
 Deep Learning, Cross-modal Multimedia Processing, 3D Vision, Geometric Deep Learning, Graphics and Image Processing
 ------
 
-2022
+Awards
 ======
-* Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
-* Associate Editor, The Visual Computer
-* Associate Editor, Journal of Electronic Imaging
-* Special Issue Lead Guest Editor, 2022, IEEE Transactions on Multimedia on "[Point Cloud Processing and Undertanding]( https://signalprocessingsociety.org/sites/default/files/uploads/special_issues_deadlines/TMM_SI_point_cloud.pdf)"
-* Special Issue Lead Guest Editor, 2022, The Visual Computer on "[Deep Learning for 3D Segmentation](https://www.springer.com/journal/371/updates/20164708)"
+* CUHK Young Scholar Outstanding Thesis Awards, 2014
+* NUAA Young Scholar Innovation Awards, 2020
+* First Prize of China Robotics Competition on 3D Vision Competition, 2020
+* Changkong Scholar of Nanjing University of Aeronautics and Astronautics, 2020
+* Best Paper Awards, Chinagraph, 2022
+* First Prize of the National Science Cup ``I Want to Start a Business" Contest, 2014
   
 2021
 ======
