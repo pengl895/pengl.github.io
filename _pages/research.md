@@ -10,7 +10,6 @@ Research Interests:
 ======
 
 2D/3D vision (Graph Convolution, Transformer), the 5th multimedia processing (cross-modal data processing), geometric deep learning, 3D point cloud/mesh processing, and computer-aided design
-------
 
 Awards
 ======
