@@ -1,21 +1,14 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
 {% include base_path %}
 
-Education
+Professional Activities
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
+* Associate Editor, The Visual Computer
+* Associate Editor, Journal of Electronic Imaging
+* Special Issue Lead Guest Editor, 2022, IEEE Transactions on Multimedia on "Point Cloud Processing and Undertanding"
+* Special Issue Lead Guest Editor, 2022, The Visual Computer on "Deep Learning for 3D Segmentation"
 
-Work experience
+2022
 ======
 * Summer 2015: Research Assistant
   * Github University
