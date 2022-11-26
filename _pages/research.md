@@ -22,7 +22,7 @@ Awards
  
 Grants
 ======
-* *Co-PI*, "Deep Learning Theory and Method for 3D Object Analysis and Generation", 
+* *Co-PI*, "Deep Learning Theory and Method for 3D Object Analysis and Generation",  
   **The National Key Natural Science Foundation of China**, 01/2021 - 12/2025
 * *PI*, "Research on Problems of Large-scale Point Cloud-based Geometric Deep Learning for Shape Analysis of Large Aircraft", 
   **The National Natural Science Foundation of China**, 01/2022 - 12/2025
