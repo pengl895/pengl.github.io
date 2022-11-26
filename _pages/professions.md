@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 Professional Activities
------
+=====
 * Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
 * Associate Editor, The Visual Computer
 * Associate Editor, Journal of Electronic Imaging
@@ -15,7 +15,7 @@ Professional Activities
 * Special Issue Lead Guest Editor, 2022, The Visual Computer on "[Deep Learning for 3D Segmentation](https://www.springer.com/journal/371/updates/20164708)"
 
 2022
------
+=====
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
