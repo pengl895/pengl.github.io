@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Professions"
 permalink: /professions/
 author_profile: true
 ---
