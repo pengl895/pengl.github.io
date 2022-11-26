@@ -18,7 +18,7 @@ Awards
 * First Prize of China Robotics Competition on 3D Vision Competition, 2020
 * Changkong Scholar of Nanjing University of Aeronautics and Astronautics, 2020
 * Best Paper Awards, Chinagraph, 2022
-* First Prize of the National Science Cup ``I Want to Start a Business" Contest, 2014
+* First Prize of the National Science Cup "I Want to Start a Business" Contest, 2014
  
 Grants
 ======
