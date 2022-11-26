@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-<font size=18>Professional Activities<\font>
+<font size=2>Professional Activities<\font>
 ======
 * Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)
 * Associate Editor, The Visual Computer
