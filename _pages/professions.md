@@ -16,17 +16,12 @@ Professional Activities
 
 2022
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Program Committee Member, The 36th AAAI Conference on Artificial Intelligence (AAAI-22), February 22 - March 1, 2022, Vancouver, Canada
+* Program Committee Member, The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR-22), June 21 - 24, 2022, New Orleans, USA
+* 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+2021
 ======
 
 
